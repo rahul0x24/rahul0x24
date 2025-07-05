@@ -5,7 +5,6 @@ I'm **Rahul Katariya**, a Senior Software Engineer with 10+ years of experience 
 Based in the **United Kingdom**, I specialize in iOS, Android, and cross-platform development with deep expertise in Swift, Kotlin Multiplatform, and modern web technologies. I'm passionate about creating developer tools and building applications that solve real-world problems.
 
 **Contact Information:**
-- 📄 Resume: https://rahul0x24.github.io/
 - 📧 Email: [rahulkatariya@me.com](mailto:rahulkatariya@me.com)
 - 🌐 Website: [rahul0x24.github.io](https://rahul0x24.github.io)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/rahul0x24)
